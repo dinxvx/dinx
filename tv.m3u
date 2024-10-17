@@ -1,8 +1,16 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://119.166.29.252:1026/udp/239.253.254.77:8000
+http://115.212.187.245:7912/udp/233.50.200.99:5140
+http://115.212.187.245:7912/udp/233.50.200.130:5140
+http://115.212.187.245:7912/udp/233.50.200.143:5140
+http://115.212.187.245:7912/udp/233.50.201.118:5140
+http://115.212.187.245:7912/udp/233.50.201.222:5140
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://119.166.29.252:1026/udp/239.253.254.232:8000
+http://115.212.187.245:7912/udp/233.50.200.25:5140
+http://115.212.187.245:7912/udp/233.50.200.100:5140
+http://115.212.187.245:7912/udp/233.50.201.119:5140
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://119.166.29.252:1026/udp/239.253.254.191:8000
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
